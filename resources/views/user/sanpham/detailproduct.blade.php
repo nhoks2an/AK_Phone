@@ -3,55 +3,48 @@
     @parent
 <div class="grid-pro-detail w-clear">
     <div class="row">
-        <div class="left-pro-detail col-md-6 col-lg-2 mb-4">
-           <img src="images/oppoa5.jpg">
-                <div class="gallery-thumb-pro">
-                    <div class="owl-page owl-carousel owl-theme owl-pro-detail"
-                    data-xsm-items = "5:10" 
-                    data-sm-items = "5:10" 
-                    data-md-items = "5:10" 
-                    data-lg-items = "5:10" 
-                    data-xlg-items = "5:10" 
-                    data-nav = "1" 
-                    data-navtext = "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-chevron-left' width='44' height='45' viewBox='0 0 24 24' stroke-width='1.5' stroke='#2c3e50' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><polyline points='15 6 9 12 15 18' /></svg>|<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-chevron-right' width='44' height='45' viewBox='0 0 24 24' stroke-width='1.5' stroke='#2c3e50' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><polyline points='9 6 15 12 9 18' /></svg>" 
-                    data-navcontainer = ".control-pro-detail">
-                        <div>
-                            <img src="images/oppoa5.jpg">
-                        </div>
-                        <div>
-                            <img src="images/oppoa5.jpg">
-                        </div>
-                </div>
-                <div class="control-pro-detail control-owl transition"></div>
-            </div>
+    <div class="left-pro-detail col-md-6 col-lg-5 mb-4">
+<ul id="etalage">
+        <li>
+        <img class="etalage_source_image" src="../images/oppoa5.jpg" class="img-responsive" />
+        </li>
+        <li>
+        <img class="etalage_source_image" src="../images/oppoa5.jpg" class="img-responsive" />
+        </li>
+        <li>
+        <img class="etalage_source_image" src="../images/oppoa5.jpg" class="img-responsive" />
+        </li>
+        <li>
+        <img class="etalage_source_image" src="../images/logo.png" class="img-responsive" />
+        </li>
+</ul>
     </div>
 
     <div class="right-pro-detail col-md-6 col-lg-7 mb-4">
-        <p class="title-pro-detail">Điện thoại Oppo A5</p>
-        <ul class="attr-pro-detail">            
+        <p class="title-pro-detail mb-2"></p>
+        
+        <div class="social-plugin social-plugin-pro-detail w-clear">
+        </div>
+        <div class="desc-pro-detail"></div>
+        <ul class="attr-pro-detail">
+          
+                <li class="w-clear"> 
+                    <label class="attr-label-pro-detail">Mã:</label>
+                    <div class="attr-content-pro-detail">555</div>
+                </li>
+
+            
             <li class="w-clear">
+                <label class="attr-label-pro-detail">Giá:</label>
                 <div class="attr-content-pro-detail">
-                    Giá: <span class="">5.000.000đ</span>
-                </div>
-            </li>
-             <li class="w-clear">
-                <div class="attr-content-pro-detail">
-                    Màu: <span class="">Đen</span>
-                </div>
-            </li>
-            <li class="w-clear">
-                <div class="attr-content-pro-detail">
-                    Loại: <span class="">OPPO</span>
-                </div>
-            </li>
-             <li class="w-clear">
-                <div class="attr-content-pro-detail">
-                    Hãng sản xuất: <span class="">OPPO</span>
+                        <span class="price-new-pro-detail">55555555đ</span>
+                        <span class="price-old-pro-detail">999999999đ</span>
                 </div>
             </li>
         </ul>        
     </div>
 </div>
+
 
 <div class="tabs-pro-detail center-layout">
     <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -74,54 +67,75 @@
         <div class="center"><div class="title-name">SẢN PHẨM CÙNG LOẠI</div></div>
         <div class="list-item">
         <div class="item">
-            <div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
-            <div class="noidung">
-                <div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-                <div class="gia">Giá: <span>5000000đ</span></div>
-            </div>
-        </div>
+			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
+			<div class="noidung">
+				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
+			</div>
+		</div>
         <div class="item">
-            <div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
-            <div class="noidung">
-                <div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-                <div class="gia">Giá: <span>5000000đ</span></div>
-            </div>
-        </div>
+			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
+			<div class="noidung">
+				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
+			</div>
+		</div>
         <div class="item">
-            <div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
-            <div class="noidung">
-                <div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-                <div class="gia">Giá: <span>5000000đ</span></div>
-            </div>
-        </div>
+			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
+			<div class="noidung">
+				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
+			</div>
+		</div>
         <div class="item">
-            <div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
-            <div class="noidung">
-                <div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-                <div class="gia">Giá: <span>5000000đ</span></div>
-            </div>
-        </div>
+			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
+			<div class="noidung">
+				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
+			</div>
+		</div>
         <div class="item">
-            <div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
-            <div class="noidung">
-                <div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-                <div class="gia">Giá: <span>5000000đ</span></div>
-            </div>
-        </div>
+			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
+			<div class="noidung">
+				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
+			</div>
+		</div>
         <div class="item">
-            <div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
-            <div class="noidung">
-                <div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-                <div class="gia">Giá: <span>5000000đ</span></div>
-            </div>
-        </div>
+			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
+			<div class="noidung">
+				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
+			</div>
+		</div>
         <div class="item">
-            <div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
-            <div class="noidung">
-                <div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-                <div class="gia">Giá: <span>5000000đ</span></div>
-            </div>
-        </div>
+			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
+			<div class="noidung">
+				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
+			</div>
+		</div>
 
     </div>
     </div>

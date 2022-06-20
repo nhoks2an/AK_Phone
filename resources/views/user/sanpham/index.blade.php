@@ -10,126 +10,180 @@
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="img"><a class="scale-img" href=""><img src="images/oppoa5.jpg"></a></div>
 			<div class="noidung">
 				<div class="ten"><a href="">Điện thoại OPPO A5</a></div>
-				<div class="gia">Giá: <span>5000000đ</span></div>
+				<div class="tt-gia">
+					<div class="gia"><span>5000000đ</span></div>
+					<div class="giacu">10000000đ</div>
+				</div>
 			</div>
 		</div>
 		
